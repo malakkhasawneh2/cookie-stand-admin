@@ -1,5 +1,5 @@
-"# -Cookie-stand-admin"
-# in this lab i work with haneen & eslam  
+
+# in this lab i work with haneen 
 
 # Next.js + Tailwind CSS Example
 
